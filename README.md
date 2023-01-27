@@ -31,3 +31,5 @@ Tech201-git-github
 - $ `git commit -m "insert message here"`
 - to push to git
 - $ `git push -u origin main`
+- to pull from github
+- $ `git pull`
