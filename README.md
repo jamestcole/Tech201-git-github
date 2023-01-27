@@ -19,7 +19,7 @@ Tech201-git-github
 - $ `cd (folder address)`
 - to produce list of files
 - $ `ls`
-- to open md file for editing on gitbash (use instructions displayed ^ is ctrl)
+- to open md file for editing on gitbash (use instructions displayed ^ is ctrl, ^x to exit, y to save when given option)
 - $ `nano README.md`
 - to see the file displayed in gitbash
 - $ `cat README.md`
