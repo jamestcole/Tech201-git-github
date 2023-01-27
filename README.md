@@ -5,3 +5,4 @@ Tech201-git-github
 - Let's create our Markdown file
 - 
 - This line is added on localhost
+[![Alt text](https://beliciarodriguez.com/post/intro-to-github-talk/git_push_pull_commands.jpg)](https://beliciarodriguez.com/post/intro-to-github-talk/git_push_pull_commands.jpg)
