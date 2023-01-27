@@ -1,9 +1,9 @@
 # Tech201-git-github
 Tech201-git-github
 ## Lesson 27.01.23
-### Heading3
+### Introduction to Push Pull Commands
 - Let's create our Markdown file
-- 
+- Then let's push and pull our files
 - This line is added on localhost
 [![Alt text](https://beliciarodriguez.com/post/intro-to-github-talk/git_push_pull_commands.jpg)](https://beliciarodriguez.com/post/intro-to-github-talk/git_push_pull_commands.jpg)
 ### How to use Git Bash and GitHub to move files
